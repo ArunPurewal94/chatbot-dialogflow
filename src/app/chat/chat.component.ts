@@ -24,7 +24,7 @@ export class ChatComponent implements OnInit {
   	) { 
   	this.message = new Message('', 'assets/images/user.png', new Date());
   	this.messages = [
-  	new Message('Welcome to chatbot universe', 'assets/images/bot.png', new Date())
+  	new Message('Welcome to Aruns ChatBot', 'assets/images/bot.png', new Date())
   	];
   }
 
